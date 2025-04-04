@@ -1,5 +1,8 @@
 google.com, pub-7669873379508876, DIRECT, f08c47fec0942fa0
 ownerdomain=http://showcaigames.xyz
+ironsrc.com, [516767], Direct
+Remember to replace [516767] with your account ID, which you can get from your account manager.
+
 
 inmobi.com, f78a39caa1c3490d85f37bdb8b51e4d2, DIRECT, 83e75a7ae333ca9d
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
